@@ -1,0 +1,2 @@
+ List<String> artist = ["Neha Kakkar", "Atif Aslam", "Rahat Fateh Ali", "Ali Zafar", "Shreya Ghoshal",
+                        "Arijit Singh", "Gul Panra", "Taylor Swift", "Himesh", "Haddiqa Kiyani",];
